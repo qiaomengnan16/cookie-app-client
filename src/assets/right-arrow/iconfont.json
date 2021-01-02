@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "448574",
+      "name": "择律-付费咨询列表页分割箭头",
+      "font_class": "z043",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    }
+  ]
+}

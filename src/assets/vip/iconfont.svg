@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="VIP" unicode="&#59003;" d="M924-36H100A100 100 0 0 0 0 64V661a100 100 0 0 0 100 100h824a100 100 0 0 0 100-100v-597a100 100 0 0 0-100-100zM100 681a20 20 0 0 1-20-20v-597a20 20 0 0 1 20-20h824a20 20 0 0 1 20 20V661a20 20 0 0 1-20 20zM968 568H55a40 40 0 0 0 0 80h913a40 40 0 0 0 0-80zM968 455H49a40 40 0 0 0 0 80h919a40 40 0 0 0 0-80zM233 73h-83a40 40 0 0 0 0 80h83a40 40 0 0 0 0-80zM492 61a40 40 0 0 0-37 26l-76 203a40 40 0 0 0 75 28l38-102 37 101a40 40 0 1 0 75-27l-74-202a40 40 0 0 0-37-26zM664 61a40 40 0 0 0-40 40V304a40 40 0 0 0 80 0v-203a40 40 0 0 0-40-40zM761 61a40 40 0 0 0-40 40V304a40 40 0 0 0 40 40h77a85 85 0 0 0 0-169h-37v-74a40 40 0 0 0-40-40z m40 194h37a5 5 0 0 1 0 9h-37z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

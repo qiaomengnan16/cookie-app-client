@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12504404",
+      "name": "优惠券",
+      "font_class": "youhuiquan",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "13173676",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    }
+  ]
+}

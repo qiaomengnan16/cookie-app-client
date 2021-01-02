@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8288849",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "e84f",
+      "unicode_decimal": 59471
+    },
+    {
+      "icon_id": "8288851",
+      "name": "减号",
+      "font_class": "jianhao",
+      "unicode": "e850",
+      "unicode_decimal": 59472
+    },
+    {
+      "icon_id": "13200521",
+      "name": "酒店餐饮",
+      "font_class": "x",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}

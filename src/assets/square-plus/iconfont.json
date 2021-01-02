@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6714144",
+      "name": "加号（展开）",
+      "font_class": "jiahaozhankai",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    }
+  ]
+}

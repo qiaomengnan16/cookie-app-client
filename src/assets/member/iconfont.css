@@ -1,0 +1,25 @@
+@font-face {font-family: "icon";
+  src: url('iconfont.eot?t=1603629904913'); /* IE9 */
+  src: url('iconfont.eot?t=1603629904913#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAP0AAsAAAAACHgAAAOmAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqEWINtATYCJAMMCwgABCAFhG0HPhs7B8gekqQb4jGoBQAHwAQcQTVW9uzuIapHUl/vuTygegkBYSIkkHBRMhWjIwF1dIb0sEsBI6h5KcXJmNoRzxHe/zVNkQc2Q5RVI1Jsj3IEaf5AzZKb3fPs8xwubnmBzQ+U01hT97aoF4ZxQAGNvTCxsugE/YaxC1riegJNc5QgJzYX11BVmN0C8ZxwdKhm9EoDLdRV1YqxRXwA1OrpJcU53gffj792g46kkpkbnd4fWrDzQ/RVkhL+hyAoVwI4nRVsEhk7gELcVdpvFSL/DkpNVV5sjq0qQprK9f8/AV+TVq1/eCRBVJnJbbCBZOmiBA4/UUhC4VULHq5zFS18BnyVDGPmu2pKq1prt2dnlNjYmHLnHvW8lk/vlfx66Ncqt7eh3X2uS3vrWqN6Ek4wMLyaIqe9GUcne5K79U9HksuKSNeeDNvIDh/YfID3eqBzV5p9fF8QmVryHri3Yjt8lECkB5N7Osjwky37wYM4GJmBs9K575O9E1IMVRN8VHBSmrV6WpCanJJhGJvqm5Zl7CClGkZgkVIP+F36+2gn7BhhYHo11kV2jzNGZuXYNHIm/Fo1y53/KIH3yfBrvvDJ+RZKaKdDR/+x5pvdltc+sf7499lrm6tTfn+KC11Ax7yMweiUGg6v7KnNCXj5KiN11hxBb9UAGqzofShkjq7nzQveUr2I5rOMRVobmxRSN7MCH3vN48uQBlIzyDYvl3acGvwkQGv5bDBBk6MuyFnOUc+ZNVUfzOYXm6DOFRNocHZYaqR3cP5ojDpQ8XQcD/gPHJnTYLnU/7k8Ox7ODp4qcYH+jUEYwH9IBfJLFJyjvM2X//tvvPRqEgjtGP2jaxXwZbvFDYq6J6hLMMHfFXQsKprINOSi8B2+EcqeqLw7LuRyhX+aDkMvw50TILGGOhdAJDWzyOpWCIWyg4qWPVTV7aNpm+3klpEUBVEa2FIKEPrmkXR9QtZ3QSiUZ1RMfUFVPyjRdB2cc7asBcFgmUK6kIURT0iYSWzbJqmHqZfkqFDntCig3xKPPBeqq6jlQ8cUE08xIPXe2U4TG1FOIrQBm1EYJpjEiU+mrOMi6VBVFa160XpkEkHdMUZ0glhQhCeIYErEbK+yqBc+f4k4lJCOGwqqnLcIG/FqR+pUqHUgHMvjTgW3ckmqe45taYQNoVgigmyAlYSWP4GSqlv5iEmswwd4U0OqqBTaVb6+vDJ6v1XQZB6XI0WOovkiUbnKy5QeV6KI2LH0GAAAAA==') format('woff2'),
+  url('iconfont.woff?t=1603629904913') format('woff'),
+  url('iconfont.ttf?t=1603629904913') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1603629904913#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.icon {
+  font-family: "icon" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-coupon:before {
+  content: "\e623";
+}
+
+.icon-order:before {
+  content: "\e61f";
+}
+

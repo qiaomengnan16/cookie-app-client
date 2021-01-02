@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="jiahaozhankai" unicode="&#58924;" d="M815.2-15.7H210.8c-55.4 0-100.7 45.3-100.7 100.7V689.5c0 55.4 45.3 100.7 100.7 100.7h604.5c55.4 0 100.7-45.3 100.7-100.7V85c0-55.3-45.3-100.7-100.8-100.7zM210.8 739.9c-30.2 0-50.4-20.1-50.4-50.4V85c0-30.2 20.1-50.4 50.4-50.4h604.5c30.2 0 50.4 20.1 50.4 50.4V689.5c0 30.2-20.1 50.4-50.4 50.4H210.8z m0 0M714.5 362.1h-403c-15.1 0-25.2 10.1-25.2 25.2s10.1 25.2 25.2 25.2h403c15.1 0 25.2-10.1 25.2-25.2s-10.1-25.2-25.2-25.2z m0 0M513 160.6c-15.1 0-25.2 10.1-25.2 25.2v403c0 15.1 10.1 25.2 25.2 25.2s25.2-10.1 25.2-25.2v-403c0-15.1-10.1-25.2-25.2-25.2z m0 0"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
