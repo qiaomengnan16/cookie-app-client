@@ -33,6 +33,11 @@ export default [
         component: () => import('@/pages/Illness.vue'),
       },
       {
+        path: 'userIllness',
+        name: 'userIllness',
+        component: () => import('@/pages/UserIllness.vue'),
+      },
+      {
         path: 'medicine',
         name: 'medicine',
         component: () => import('@/pages/Medicine.vue'),

@@ -1,7 +1,7 @@
 <template>
   <div>
     <van-nav-bar
-        title="欢迎使用小呆熊餐饮"
+        title="cookie-server"
         :left-text="leftText"
         @click-left="onClickLeft"
     />

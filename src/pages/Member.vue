@@ -17,13 +17,13 @@
     <div class="menu-info">
       <div class="desc">常用功能</div>
       <div class="content">
-        <div class="info" @click="toPath('/member/order')">
+        <div class="info" @click="toPath('/userIllness')">
           <div class="top">
             <van-icon class-prefix="icon" name="order" />
           </div>
           <div class="bottom">看病历史</div>
         </div>
-        <div class="info">
+        <div class="info" @click="toPath('/medicine')">
           <div class="top">
             <van-icon class-prefix="icon" name="coupon" />
           </div>
