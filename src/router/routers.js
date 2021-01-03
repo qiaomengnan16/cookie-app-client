@@ -27,7 +27,16 @@ export default [
         name: 'member',
         component: () => import('@/pages/Member.vue'),
       },
+      {
+        path: 'illness',
+        name: 'illness',
+        component: () => import('@/pages/Illness.vue'),
+      },
+      {
+        path: 'medicine',
+        name: 'medicine',
+        component: () => import('@/pages/Medicine.vue'),
+      },
     ]
   },
-
 ]

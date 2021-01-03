@@ -45,6 +45,12 @@ export function illnessGet(searchModel) {
   return post(url, searchModel)
 }
 
+// 确诊
+export function illnessConfirm(searchModel) {
+  let url = `/illness/confirm`
+  return post(url, searchModel)
+}
+
 // 药品列表
 export function medicineList(searchModel) {
   let url = `/medicine/list`
@@ -84,5 +90,11 @@ export function userRegister(searchModel) {
 // 用户详情
 export function userCurrent(searchModel) {
   let url = `/user/current`
+  return post(url, searchModel)
+}
+
+// 确认领取药品
+export function userMedicineConfirm(searchModel) {
+  let url = `/user/medicine/confirm`
   return post(url, searchModel)
 }

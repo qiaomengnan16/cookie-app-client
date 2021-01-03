@@ -7,9 +7,11 @@
       </div>
       <div class="member-text">
         <div class="member-name">
-            🐳🐳🐳阿布
+          {{user.realName}}
         </div>
-        <div class="member-mobile">18160855002</div>
+        <div class="member-mobile">
+          {{user.cardNo}}
+        </div>
       </div>
     </div>
     <div class="menu-info">
@@ -34,18 +36,37 @@
 
 <script>
 
-  import '../assets/member/iconfont.css'
-  import '../assets/vip/iconfont.css'
-  import '../assets/recharge/iconfont.css'
-
-  export default {
-    name: "Member",
-    methods: {
-      toPath(url) {
-        this.$router.push({path: url})
+import {
+  commonFetch,
+  userCurrent, userRegister
+} from '../utils/console'
+import '../assets/member/iconfont.css'
+import '../assets/vip/iconfont.css'
+import '../assets/recharge/iconfont.css'
+export default {
+  name: "Member",
+  data() {
+    return {
+      user: {
+        realName: null,
+        cardNo: null,
       }
     }
+  },
+  methods: {
+    toPath(url) {
+      this.$router.push({path: url})
+    },
+    initData() {
+      commonFetch(userCurrent, {} , res => {
+        this.user = res.data
+      })
+    }
+  },
+  mounted() {
+    this.initData()
   }
+}
 </script>
 
 <style scoped>

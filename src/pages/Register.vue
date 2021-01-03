@@ -33,8 +33,8 @@ export default {
   data() {
     return {
       user: {
-        realName: '',
-        cardNo: '',
+        realName: null,
+        cardNo: null,
       },
       loginDisabled: true,
     }
@@ -53,7 +53,8 @@ export default {
         return
       }
       commonFetch(userRegister, this.user , res => {
-          this.$router.push({path: '/login'})
+        this.$toast.success("注册成功")
+        this.$router.push({path: '/login'})
       })
     },
     buttonStatus() {

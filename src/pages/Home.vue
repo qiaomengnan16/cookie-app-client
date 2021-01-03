@@ -11,18 +11,15 @@ export default {
   name: "Home",
   data() {
     return {
-      images: [
-        'https://img.yzcdn.cn/vant/apple-1.jpg',
-        'https://img.yzcdn.cn/vant/apple-2.jpg',
-      ],
+
     }
   },
   methods: {
     goIllness() {
-
+      this.$router.push({path: '/illness'})
     },
     goMedicine() {
-
+      this.$router.push({path: '/medicine'})
     }
   },
   mounted() {
